@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+[forms]
+  # Netlify Forms are enabled by data-netlify="true" in index.html.
